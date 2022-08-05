@@ -2,7 +2,7 @@
 framework: jest
 postMerge: 
   pattern: 
-    - "**/*.test.js"
+    - "**/*.test.js""
 postRun: 
   command: 
     - "node --version"  
